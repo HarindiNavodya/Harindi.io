@@ -418,7 +418,9 @@ span{
 /* ******************Testimonials Section********************* */
 
 .testimonials{
-    background: var(--second-bg-color);
+    background: var(--bg-color);
+    
+    
 }
 .testimonials-box{
     background-size: cover;
@@ -749,6 +751,11 @@ form .btn{
 
 
 /* ==================== Skills section css code ============================ */
+
+.down-box{
+    background: var(--second-bg-color);
+    
+}
 
 .skillBox{
     padding: 0 1rem 1rem;
